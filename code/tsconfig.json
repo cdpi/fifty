@@ -1,0 +1,10 @@
+{
+"compilerOptions":
+	{
+	"rootDir": "./src",
+	"outDir": "./js",
+	"module": "preserve",
+	"target": "ES2024",
+	"lib": ["ES2024", "DOM"]
+	}
+}
